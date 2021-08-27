@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github banner (3)](https://user-images.githubusercontent.com/55181652/92362483-b0205800-f10d-11ea-975d-0b2b17815e42.gif)<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+![Github banner (3)](https://ibb.co/BCXFVmF)<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 
 <h1 align="center">Hi 👋, I'm GHIZLANE Amine</h1>
 <h3 align="center">Software Development Engineer</h3>
