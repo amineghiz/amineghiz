@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <div style="display: inline !importante;">
   <img   src="https://github-readme-stats.vercel.app/api?username=amineghiz&show_icons=true&locale=en" alt="amineghiz" />
 </div>
-<div style="display: inline !importante;"> 
-<img style="display: inline !importante;" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineghiz&show_icons=true&locale=en&layout=compact" alt="amineghiz" /> </div>
+<div style="display: inline !importante"> 
+<img style="display: inline !importante" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineghiz&show_icons=true&locale=en&layout=compact" alt="amineghiz" /> </div>
 
 
 
