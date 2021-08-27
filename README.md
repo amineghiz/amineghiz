@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github banner (3)](https://ibb.co/BCXFVmF)<a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+[![MasterHead](https://ibb.co/BCXFVmF)
 
 <h1 align="center">Hi 👋, I'm GHIZLANE Amine</h1>
 <h3 align="center">Software Development Engineer</h3>
