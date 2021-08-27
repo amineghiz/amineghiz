@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amineghiz&show_icons=true&locale=en&layout=compact" alt="amineghiz" /> </p>
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amineghiz&show_icons=true&locale=en" alt="amineghiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amineghiz&" alt="amineghiz" /></p>
